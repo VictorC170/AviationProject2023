@@ -1,4 +1,19 @@
 # AviationProject2023
+
+Google Doc Word of README:
+https://docs.google.com/document/d/1B0clVgCJK74DRRmkZi34d1s__3BE6ktnrgV2QIsi8LU/edit
+
+Dashboard Tableau public:
+https://public.tableau.com/authoring/AviationProject2023VCL/Dashboardwith3relevantcharts#2
+
+Presentation Slides:
+https://docs.google.com/presentation/d/1013lzbzZ1xjlo6kw0v5xjyhd3uewj_ZA0LqJ4zKuHIc/edit#slide=id.p
+
+NTSB Aviation Data Set:
+https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses
+
+
+
 AVIATION PROJECT
 Flatiron School
 
